@@ -1,0 +1,10 @@
+C:\Users\micha\source\repos\arduino\arduino\bin\Debug\arduino.exe.config
+C:\Users\micha\source\repos\arduino\arduino\bin\Debug\arduino.exe
+C:\Users\micha\source\repos\arduino\arduino\bin\Debug\arduino.pdb
+C:\Users\micha\source\repos\arduino\arduino\obj\Debug\arduino.csproj.AssemblyReference.cache
+C:\Users\micha\source\repos\arduino\arduino\obj\Debug\arduino.Properties.Resources.resources
+C:\Users\micha\source\repos\arduino\arduino\obj\Debug\arduino.csproj.GenerateResource.cache
+C:\Users\micha\source\repos\arduino\arduino\obj\Debug\arduino.csproj.CoreCompileInputs.cache
+C:\Users\micha\source\repos\arduino\arduino\obj\Debug\arduino.exe
+C:\Users\micha\source\repos\arduino\arduino\obj\Debug\arduino.pdb
+C:\Users\micha\source\repos\arduino\arduino\obj\Debug\arduino.Arduino.resources
